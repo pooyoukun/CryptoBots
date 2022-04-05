@@ -1,0 +1,9 @@
+ccxt
+matplotlib
+numpy
+pandas
+pandas-ta
+scipy
+seaborn
+statsmodels
+ta
