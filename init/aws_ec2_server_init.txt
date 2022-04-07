@@ -10,8 +10,6 @@ sudo apt install python3-pip
 #Javascript
 sudo apt install nodejs -y
 
-# apt-get install git -y ## This line might not be necessary as it may be included in python3
-
 # librairies python toujours nécessaires
 git clone https://github.com/pooyoukun/CryptoBots
 pip install -r ~/CryptoBots/init/packages_to_install.txt
